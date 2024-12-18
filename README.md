@@ -61,5 +61,5 @@ Follow these steps to recover the Board
 
 - [Rajashekhar Kanukuntla](https://github.com/RAJASHEKHAR-KANUKUNTLA), Bachelor of Technology in Electronics &Communication Engineering , University College Of Engineering Kakatiya University, kothagudem,Telangana.
 
-- [BODDULA NAVANEETHA KUMAR](https://github.com/NavaneethKumar237), Bachelor of Technology in Electrical and Electronics Engineering , University College Of Engineering Mathama Gandhi University, Nalgonda,Telangana.
+- [BODDULA NAVANEETH KUMAR](https://github.com/NavaneethKumar237), Bachelor of Technology in Electrical and Electronics Engineering , University College Of Engineering Mathama Gandhi University, Nalgonda,Telangana.
 

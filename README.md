@@ -42,8 +42,21 @@ Follow these steps to recover the Board
 ![6](https://github.com/user-attachments/assets/af8076b2-b034-4ea6-813c-91670d115231)
 
 ## STEP 7
+*  The updating WCH-Link has succeed! 
 
 ![8](https://github.com/user-attachments/assets/c1b50519-bb1f-4360-aee3-6b6d29a661cb)
+
+## SETP 8
+* Click on Refresh in the WCH-LinkUtility
+* You will get the "RISC-V Link [#1]
+  
+  ![9](https://github.com/user-attachments/assets/ae72bee1-2ef0-45c2-b214-c8fc1bfe3b74)
+
+## STEP 9
+* You will get the board recovery and we can see the WCH-Link RV in the Device manager
+  ![10](https://github.com/user-attachments/assets/b9a8709e-ca46-4890-8777-61ac496c85d7)
+
+## FINALLY WE HAVE SOLVED THE ISSUE 
 
 
 

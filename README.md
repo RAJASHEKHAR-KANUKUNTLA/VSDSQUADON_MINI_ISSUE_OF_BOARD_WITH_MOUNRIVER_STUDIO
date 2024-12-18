@@ -59,5 +59,5 @@ Follow these steps to recover the Board
 
 ## FINALLY WE HAVE SOLVED THE ISSUE 
 
-
+- [Rajashekhar Kanukuntla](https://github.com/RAJASHEKHAR-KANUKUNTLA), Bachelor of Technology in Electronics &Communication Engineering , University College Of Engineering Kakatiya University, kothagudem,Telangana.
 

@@ -33,6 +33,17 @@ Follow these steps to recover the Board
 ## STEP 5
 * You will get a pop pop of notice
 * click on yes to "WCH-Link need to update.go on?"
+  
 ![5](https://github.com/user-attachments/assets/56d05a7b-2db0-46a1-a84d-7bd039980c35)
+
+## STEP 6
+* Wait for WCH-Link Updating!
+  
+![6](https://github.com/user-attachments/assets/af8076b2-b034-4ea6-813c-91670d115231)
+
+## STEP 7
+
+![8](https://github.com/user-attachments/assets/c1b50519-bb1f-4360-aee3-6b6d29a661cb)
+
 
 
